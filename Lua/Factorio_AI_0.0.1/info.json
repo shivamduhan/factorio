@@ -1,0 +1,12 @@
+{
+  "name": "Factorio_AI",
+  "version": "0.0.1",
+  "title": "Factorio Playing AI",
+  "author": "Kevin Zhang",
+  "email": "",
+  "homepage": "https://github.com/cmz97/FactorioAI",
+  "contact": "",
+  "description": "A tiny mod allows rails (with rail signals) to be placed over water tiles.",
+  "factorio_version":"0.16",
+  "dependencies": ["base >= 0.16.51"]
+}
